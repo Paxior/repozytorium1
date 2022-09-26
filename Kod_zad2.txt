@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> </title>
+<script language="JavaScript">
+function WinOpen_Morawiak20()
+{
+
+window.open("obrazek1.html","okienko","toolbar=no,directories=no,menubar=no,height=300,width=200,top=200,left=200");
+}
+function WinOpen_Morawiak21()
+{
+
+window.open("obrazek2.html","okienko","toolbar=no,directories=no,menubar=no,height=300,width=200,top=200,left=200");
+}
+function WinOpen_Morawiak22()
+{
+
+window.open("obrazek3.html","okienko","toolbar=no,directories=no,menubar=no,height=300,width=200,top=200,left=200");
+}
+function WinOpen_Morawiak23()
+{
+
+window.open("obrazek4.html","okienko","toolbar=no,directories=no,menubar=no,height=300,width=200,top=200,left=200");
+}
+</script>
+</head>
+<body>
+<form>
+<p align="center"><input type="button" name="przycisk" value="grafika1" onclick="WinOpen_Morawiak20(' ')">
+<input type="button" name="przycisk" value="grafika2" onclick="WinOpen_Morawiak21(' ')">
+<input type="button" name="przycisk" value="grafika3" onclick="WinOpen_Morawiak22(' ')">
+<input type="button" name="przycisk" value="grafika4" onclick="WinOpen_Morawiak23(' ')">
+</form>
+</body>
+</html>
