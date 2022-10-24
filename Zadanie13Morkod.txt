@@ -15,7 +15,7 @@
     tg_alfa_Mor=b_Mor/a_Mor;
     ctg_alfa_Mor=a_Mor/b_Mor;
     obw=c_Mor+b_Mor+a_Mor;
-    p=a_Morb_Mor/2;
+    p=a_Mor*b_Mor/2;
     h1=a_Mor;
     h2=b_Mor;
     h3=a_Mor*b_Mor/c_Mor;
