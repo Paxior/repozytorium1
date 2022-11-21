@@ -1,0 +1,48 @@
+<html>
+ <body>
+  <div style="color:red;font-size:50px;">
+    <script language="JavaScript">
+     var liczba1=prompt("a=","");
+     var liczba2=prompt("b=","");
+     var a_Mor=parseFloat(liczba1);
+     var b_Mor=parseFloat(liczba2);
+document.write("a="+a_Mor+"<br>");
+document.write("b="+b_Mor+"<br>");
+document.write("ab="+a_Mor*b_Mor+"<br>")
+</script>
+</div>                  mnozenie
+</body>
+</html>
+
+
+<html>
+ <body>
+  <div style="color:red;font-size:50px;">
+    <script language="JavaScript">
+     var liczba1=prompt("a=","");
+     var liczba2=prompt("b=","");
+     var a_Mor=parseFloat(liczba1);
+     var b_Mor=parseFloat(liczba2);
+document.write("a="+a_Mor+"<br>");
+document.write("b="+b_Mor+"<br>");  
+document.write("ab="+a_Mor*b_Mor*a_Mor*b_Mor+"<br>")        mnozenie do potegi 2
+</script>
+</div>
+</body>
+</html>
+
+<html>
+ <body>
+  <div style="color:red;font-size:50px;">
+    <script language="JavaScript">
+     var liczba1=prompt("a=","");
+     var liczba2=prompt("b=","");
+     var a_Mor=parseFloat(liczba1);
+     var b_Mor=parseFloat(liczba2);
+document.write("a="+a_Mor+"<br>");
+document.write("b="+b_Mor+"<br>");
+document.write("a/b="+a_Mor/b_Mor+"<br>")       dzielenie
+</script>
+</div>
+</body>
+</html>
